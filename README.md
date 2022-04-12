@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @biancalj2
 - 👀 I’m interested in autonomous robots
-- 🌱 I’m currently a Master's student at Stanford University
-  Courses: Decision Making Under Uncertainty, Principles of Robot Autonomy, Introduction to Linear Dynamical Systems
+- 🌱 I’m currently a Master's student at Stanford University. Courses: Decision Making Under Uncertainty, Principles of Robot Autonomy, Introduction to Linear Dynamical Systems, Introduction to Mechatronics, Machine Learning, Experimental Robotics, Haptics
 - 🌱 I graduated with a B.S. in Mechanical Engineering from the University of Notre Dame in 2019
 - 📫 How to reach me biancalj@stanford.edu or www.linkedin.com/in/bianca-jurewicz
 - Languages: Python, Julia, C++, C, Matlab, Fortran
